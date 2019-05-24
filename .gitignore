@@ -1,0 +1,8 @@
+*.py[cod]
+migrations
+logs
+.idea
+venv
+single_pdf
+merge_pdf
+
